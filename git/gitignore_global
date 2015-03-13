@@ -1,0 +1,17 @@
+# Genral Backup files
+*~
+*.~*
+*.bak
+.*.swp
+
+# Python compiled files
+*.py[cod]
+dist
+build
+
+# IDE project files
+*.spyderproject
+*.project
+*.pydevproject
+.ropeproject
+.idea/

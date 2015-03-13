@@ -1,0 +1,23 @@
+[user]
+name = Igor Degtiarov
+email = igoryok.d@gmail.com
+
+[core]
+autocrlf = input
+editor = vim
+excludesfile = ~/.gitignore_global
+
+[push]
+default = simple
+
+[i18n]
+filesEncoding = utf-8
+
+[merge]
+tool = meld
+
+[diff]
+guitool = meld
+
+[gitreview]
+username = tovstun
